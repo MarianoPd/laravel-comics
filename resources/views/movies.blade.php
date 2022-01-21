@@ -1,5 +1,5 @@
 @extends('layouts.app')
 @section('content')
-    <h1>About</h1>
+    <h1>Movies</h1>
 
 @endsection

@@ -10,14 +10,6 @@
                 </li>
             @endforeach
 
-             {{-- <li 
-            v-for="(item,index) in links" :key="index"
-            :class="{active: index === activeLink}"
-            @click="activeLink = index">
-                <a :href="item.url">
-                {{item.text}}
-                </a>
-            </li>  --}}
         
         </ul>
     </div>

@@ -2,52 +2,52 @@
 
 return [
     [
-      'url'=> 'home',
+      'url'=> 'characters',
       'text'=> 'characters',
       'current'=> false,
     ],
     [
-      'url'=>'home',
+      'url'=>'comics',
       'text'=> 'comics',
       'current'=> true,
     ],
     [
-      'url'=>'home',
+      'url'=>'movies',
       'text'=>'movies',
       'current'=> false,
     ],
     [
-      'url'=>'home',
+      'url'=>'comics',
       'text'=> 'tv',
       'current'=> false,
     ],
     [
-      'url'=>'home',
+      'url'=>'comics',
       'text'=> 'games',
       'current'=> false,
     ],
     [
-      'url'=>'home',
+      'url'=>'comics',
       'text'=> 'collectibles',
       'current'=> false,
     ],
     [
-      'url'=>'home',
+      'url'=>'comics',
       'text'=> 'videos',
       'current'=> false,
     ],
     [
-      'url'=>'home',
+      'url'=>'comics',
       'text'=> 'fans',
       'current'=> false,
     ],
     [
-      'url'=>'home',
+      'url'=>'comics',
       'text'=> 'news',
       'current'=> false,
     ],
     [
-      'url'=>'home',
+      'url'=>'comics',
       'text'=> 'shop',
       'current'=> false,
     ],
