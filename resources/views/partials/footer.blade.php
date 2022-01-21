@@ -56,15 +56,17 @@
           </section>
           <section class="bottom">
             <div class="container">
-              <button><h3>sign up now!</h3></button>
-              <div class="socials">
-                <h3>follow us</h3>
-                <img src="{{asset('img/footer-facebook.png')}}" alt="">
-                <img src="{{asset('img/footer-twitter.png')}}" alt="">
-                <img src="{{asset('img/footer-youtube.png')}}" alt="">
-                <img src="{{asset('img/footer-pinterest.png')}}" alt="">
-                <img src="{{asset('img/footer-periscope.png')}}" alt="">
-              </div>
+                <button>
+                  <a href="#"><h3>sign up now!</h3></a>
+                </button>
+                <div class="socials">
+                    <h3>follow us</h3>
+                    <a href="#"><img src="{{asset('img/footer-facebook.png')}}" alt=""></a>
+                    <a href="#"><img src="{{asset('img/footer-twitter.png')}}" alt=""></a>
+                    <a href="#"><img src="{{asset('img/footer-youtube.png')}}" alt=""></a>
+                    <a href="#"><img src="{{asset('img/footer-pinterest.png')}}" alt=""></a>
+                    <a href="#"><img src="{{asset('img/footer-periscope.png')}}" alt=""></a>
+                </div>
             </div>
           </section>
         </div>
